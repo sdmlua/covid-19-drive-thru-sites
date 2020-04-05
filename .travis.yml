@@ -5,4 +5,5 @@ install:
   - source env/bin/activate
 
 script:
-  - cd scripts && ./data_cleaner.sh | tee ../covid_19_drive_thru_sites.txt
+  - source env/bin/activate
+  - which python
