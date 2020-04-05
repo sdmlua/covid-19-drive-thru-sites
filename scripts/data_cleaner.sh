@@ -1,7 +1,5 @@
 #!/bin/sh
 
-source ../env/bin/activate
-
 if [[ $(uname -s) == "Darwin" ]]
 then
 	# If using macOS, install gnu utils using homebrew
