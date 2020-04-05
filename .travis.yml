@@ -5,5 +5,5 @@ install:
   - pip install -r requirements.txt
 
 script:
-  - cd scripts && ./data_cleaner.sh | tee ../covid_19_drive_thru_sites_temp.txt && cd ..
-  - [[ -n $(diff -q covid_19_drive_thru_sites_temp.txt covid_19_drive_thru_sites.txt) ]] && mv covid_19_drive_thru_sites_temp.txt covid_19_drive_thru_sites.txt
+  - cd scripts && ./data_cleaner.sh | tee ../covid_19_drive_thru_sites_temp.txt ; cd ..
+  - if [ -n $(diff -q covid_19_drive_thru_sites_temp.txt covid_19_drive_thru_sites.txt) ]; then mv covid_19_drive_thru_sites_temp.txt covid_19_drive_thru_sites.txt fi
