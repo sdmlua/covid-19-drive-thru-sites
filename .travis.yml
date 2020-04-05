@@ -1,7 +1,8 @@
 language: python
-python: 3.6
+python: 3.7
 
-install: skip
+install:
+  - source env/bin/activate
 
 script:
-  - source env/bin/activate && cd scripts && ./data_cleaner.sh | tee ../covid_19_drive_thru_sites.txt
+  - cd scripts && ./data_cleaner.sh | tee ../covid_19_drive_thru_sites.txt
