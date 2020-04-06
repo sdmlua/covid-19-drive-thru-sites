@@ -1,0 +1,20 @@
+language: python
+python: 3.7
+
+install:
+  - pip install -r requirements.txt
+
+script:
+  - cd scripts && ./data_cleaner.sh | tee ../covid_19_drive_thru_sites_temp.txt ; cd ..
+  - WC_ORIGINAL=$(wc -l covid_19_drive_thru_sites.txt | awk '{print $1}')
+  - WC_TEMP=$(wc -l covid_19_drive_thru_sites_temp.txt | awk '{print $1}')
+  - if [[ (( $WC_ORIGINAL < $WC_TEMP )) ]]; then mv covid_19_drive_thru_sites_temp.txt covid_19_drive_thru_sites.txt; fi
+
+after_success:
+  - git config --global user.email "travis@travis-ci.org"
+  - git config --global user.name "Travis CI"
+  - git status
+  - git add covid_19_drive_thru_sites.txt
+  - git commit --message "Travis build ${TRAVIS_BUILD_NUMBER}"
+  - git remote set-url origin https://aaraney:${GH_TOKEN}@github.com/sdmlua/covid-19-drive-thru-sites.git > /dev/null 2>&1
+  - git push origin HEAD:add-travis
