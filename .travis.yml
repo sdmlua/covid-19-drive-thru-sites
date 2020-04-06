@@ -14,5 +14,5 @@ after_sucess:
   - git config --global user.email "travis@travis-ci.org"
   - git config --global user.name "Travis CI"
   - git add covid_19_drive_thru_sites.txt
-  - git commit -m "Travis build: $TRAVIS_BUILD_NUMBER"
-  - git push origin $(git branch --show-current)
+  - git commit --message "Travis build&#58; $TRAVIS_BUILD_NUMBER"
+  - git push origin HEAD:add-travis
