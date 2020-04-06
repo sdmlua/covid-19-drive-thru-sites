@@ -15,5 +15,5 @@ after_sucess:
   - git config --global user.name "Travis CI"
   - git add covid_19_drive_thru_sites.txt
   - git commit --message "Travis build&#58; $TRAVIS_BUILD_NUMBER"
-  - git remote add origin https://${GH_TOKEN}@github.com/sdmlua/covid-19-drive-thru-sites.git > /dev/null 2>&1
+  - git remote add origin https://aaraney:${GH_TOKEN}@github.com/sdmlua/covid-19-drive-thru-sites.git > /dev/null 2>&1
   - git push origin HEAD:add-travis
