@@ -9,6 +9,7 @@ script:
   - WC_ORIGINAL=$(wc -l covid_19_drive_thru_sites.txt | awk '{print $1}')
   - WC_TEMP=$(wc -l covid_19_drive_thru_sites_temp.txt | awk '{print $1}')
   - if [[ (( $WC_ORIGINAL < $WC_TEMP )) ]]; then mv covid_19_drive_thru_sites_temp.txt covid_19_drive_thru_sites.txt; fi
+  - git remote -v
 
 after_success:
   - git config --global user.email "travis@travis-ci.org"
