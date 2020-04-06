@@ -6,4 +6,13 @@ install:
 
 script:
   - cd scripts && ./data_cleaner.sh | tee ../covid_19_drive_thru_sites_temp.txt ; cd ..
-  - if [[ -n $(diff -q covid_19_drive_thru_sites_temp.txt covid_19_drive_thru_sites.txt) ]]; then mv covid_19_drive_thru_sites_temp.txt covid_19_drive_thru_sites.txt; else echo "No changes" ; rm covid_19_drive_thru_sites_temp.txt; fi
+  - WC_ORIGINAL=$(wc -l covid_19_drive_thru_sites.txt | awk '{print $1}')
+  - WC_TEMP=$(wc -l covid_19_drive_thru_sites_temp.txt | awk '{print $1}')
+  - if [[ (( $WC_ORIGINAL < $WC_TEMP )) ]]; then mv covid_19_drive_thru_sites_temp.txt covid_19_drive_thru_sites.txt; fi
+
+after_sucess:
+  - git config --global user.email "travis@travis-ci.org"
+  - git config --global user.name "Travis CI"
+  - git add covid_19_drive_thru_sites.txt
+  - git commit -m "Travis build: $TRAVIS_BUILD_NUMBER"
+  - git push origin $(git branch --show-current)
