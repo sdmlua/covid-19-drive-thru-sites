@@ -1,49 +1,61 @@
 State|Location|Address|City|Hours|Phone Number|Eligibility|Limitations|Link
-Alaska||4115 Lake Otis Pkwy|Anchorage|9 a.m. to 7 p.m.||||
+Alaska||4115 Lake Otis Pkwy|Anchorage|9 - 7 ||||
 Alaska|Fairbanks' Foundation Health Partners|9th Avenue & Noble Street|Fairbanks||907-458-2888|||
-Alabama|Northeast Alabama Regional Medical Center|230 E 10th Street|Anniston|M-F 8:30 a.m. to 4:30 p.m.|256-235-5600|||
+Alabama|Northeast Alabama Regional Medical Center|230 E 10th Street|Anniston|M-F 8:30 - 4:30 |256-235-5600|||
 Alabama|Waddell Family Medicine|902 West Washington St|Athens|M-F 8-4||||
 Alabama|Health Plus Fitness Center|1171 Gatewood Dr #101|Auburn||334-528-SICK |||https://www.eamc.org/patient-and-guests/covid-19-information/
 Alabama|Church of the Highlands Grandview|4700 Highlands Way|Birmingham|||||https://www.wvtm13.com/article/drive-thru-coronavirus-testing-in-birmingham-bessemer-and-tuscaloosa/31651212#
-Alabama|UAB Medicine|University Blvd & 22nd Street S|Birmingham|9:00 a.m. to 1:30 p.m.|205-975-1881|Appt only, call to schedule||https://www.birminghamal.gov/2020/03/30/covid-19-testing-sites-and-sick-clinics-available-in-birmingham/
+Alabama|UAB Medicine|University Blvd & 22nd Street S|Birmingham|9:00 - 1:30 |205-975-1881|Appt only, call to schedule||https://www.birminghamal.gov/2020/03/30/covid-19-testing-sites-and-sick-clinics-available-in-birmingham/
 Alabama|Cahaba Medical Care|1308 Tuscaloosa Avenue|Birmingham||205-679-6325|https://www.surveymonkey.com/r/CMCcurbsideWE||https://www.al.com/coronavirus/2020/03/heres-where-you-can-get-tested-for-coronavirus-in-alabama.html
-Alabama|John Hunt Park|2151 Airport Rd SW|Huntsville|9 a.m. to 5 p.m.||||https://www.al.com/coronavirus/2020/03/heres-where-you-can-get-tested-for-coronavirus-in-alabama.html
-Alabama|Medical Arts Building Parking Lot|230 E 10TH St|Anniston|8:30 a.m. to 4:30 p.m.||||http://www.annistonal.gov/uploadedFiles/File/RMC_-_DRIVE_THRU_TESTING_PROCESS_FINAL.pdf
+Alabama|John Hunt Park|2151 Airport Rd SW|Huntsville|9 - 5 ||||https://www.al.com/coronavirus/2020/03/heres-where-you-can-get-tested-for-coronavirus-in-alabama.html
+Alabama|Medical Arts Building Parking Lot|230 E 10TH St|Anniston|8:30 - 4:30 ||||http://www.annistonal.gov/uploadedFiles/File/RMC_-_DRIVE_THRU_TESTING_PROCESS_FINAL.pdf
 Alabama|Ladd-Peebles Stadium|1621 Virginia St|Mobile||||Waiting for testing kits|
 Alabama|The Grounds in Mobile|1035 Cody Rd N|Mobile||||Waiting for testing kits|
-Alabama|Infirmary Health|5 Mobile Infirmary Circle|Mobile|10 a.m. to 2 p.m.|251-341-CV19|||https://www.infirmaryhealth.org/coronavirus-covid-19
+Alabama|Infirmary Health|5 Mobile Infirmary Circle|Mobile|10 - 2 |251-341-CV19|||https://www.infirmaryhealth.org/coronavirus-covid-19
 Alabama|Greater Mobile Urgent Care|2350 Schillinger Road|Mobile||251-633-0123|||https://www.al.com/coronavirus/2020/03/heres-where-you-can-get-tested-for-coronavirus-in-alabama.html
-Alabama||2936 Marti Lane|Montgomery|7 a.m. to 7 p.m.|334-747-0150|||https://www.wsfa.com/2020/03/16/drive-up-coronavirus-testing-site-opens-montgomery/
-Alabama|DCH Regional Medical Center|809 University Blvd E|Tuscaloosa|8 a.m to 5 p.m.||||https://www.dchsystem.com/Articles/coronavirus_update_and_health_system_preparations.aspx
+Alabama||2936 Marti Lane|Montgomery|7 - 7 |334-747-0150|||https://www.wsfa.com/2020/03/16/drive-up-coronavirus-testing-site-opens-montgomery/
+Alabama|DCH Regional Medical Center|809 University Blvd E|Tuscaloosa|8 - 5 ||||https://www.dchsystem.com/Articles/coronavirus_update_and_health_system_preparations.aspx
 Alabama|Assurance Scientific Laboratories|2868 Acton Road||||||
-Alabama|Scottsboro Health Center|70 Freedom Drive|Scottsboro|Monday - Friday 1 p.m. u2013 5 p.m.|256-574-5508|||https://www.waaytv.com/content/news/Coronavirus-testing-sites-in-Jackson-County--569277371.html
-Alabama|Scottsboro Junior High School|1601 Jefferson Dr|Scottsboro|April 3, 4, 5 - 10 a.m. to 2 p.m.||||
-Alabama|Scottsboro High School|25053 John T Reid Pkwy|Scottsboro|April 3, 4, 5 - 10 a.m. to 2 p.m.||||
-Alabama|North Sand Mountain Health Center|29810 Alabama Hwy 71|Bryant|Monday u2013 Thursday 1 p.m. u2013 6 p.m.|256-597-2135|||
-Alabama|Section Health Center|60 Main Street North|Section|Monday - Friday 1 p.m. u2013 5 p.m.|256-228-3471|||https://www.waaytv.com/content/news/Coronavirus-testing-sites-in-Jackson-County--569277371.html
+Alabama|Scottsboro Health Center|70 Freedom Drive|Scottsboro|M - Fr 1 u2013 5 |256-574-5508|||https://www.waaytv.com/content/news/Coronavirus-testing-sites-in-Jackson-County--569277371.html
+Alabama|North Sand Mountain Health Center|29810 Alabama Hwy 71|Bryant|M - Fr 1 u2013 5|256-597-2135|||
+Alabama|Section Health Center|60 Main Street North|Section|M - Fr 1 u2013 5|256-228-3471|||https://www.waaytv.com/content/news/Coronavirus-testing-sites-in-Jackson-County--569277371.html
 Alabama|3Circle Church|10274 Alabama Highway 104-A|Fairhope|Opens 7:30 a.m.||||https://www.al.com/coronavirus/2020/03/heres-where-you-can-get-tested-for-coronavirus-in-alabama.html
-Alabama|Fyffe Health Center|34617 AL Hwy 75|Fyffe|Monday u2013 Friday 1 p.m. u2013 5 p.m.|256-623-5242|||https://www.waaytv.com/content/news/Coronavirus-testing-sites-in-Jackson-County--569277371.html
-Alabama|Woodville Health Center|13624 County Road 8|Woodville|Monday u2013 Friday 1 p.m. u2013 5 p.m.|256-776-5615|||https://www.waaytv.com/content/news/Coronavirus-testing-sites-in-Jackson-County--569277371.html
-Alabama|Fort Payne Health Center|3840 Gault Avenue North|Fort Payne|Monday u2013 Friday 1 p.m. -5 p.m.|256-844-4975|||https://www.waaytv.com/content/news/Coronavirus-testing-sites-in-Jackson-County--569277371.html
+Alabama|Fyffe Health Center|34617 AL Hwy 75|Fyffe|M - Fr 1 u2013 5|256-623-5242|||https://www.waaytv.com/content/news/Coronavirus-testing-sites-in-Jackson-County--569277371.html
+Alabama|Woodville Health Center|13624 County Road 8|Woodville|M - Fr 1 u2013 5|256-776-5615|||https://www.waaytv.com/content/news/Coronavirus-testing-sites-in-Jackson-County--569277371.html
+Alabama|Fort Payne Health Center|3840 Gault Avenue North|Fort Payne|M - Fr 1 u2013 5|256-844-4975|||https://www.waaytv.com/content/news/Coronavirus-testing-sites-in-Jackson-County--569277371.html
 Alabama|Dallas County Health Department|100 Samuel O Moseley Dr|Selma|M/W from 10 a.m. until 2 p.m.|888-264-2256|||https://www.wsfa.com/2020/03/30/dallas-county-open-drive-thru-coronavirus-testing-center/
-Arkansas|Lansdale Family Clinic|509 E 9th St|Texarkana|Mon, April 6 from 10 a.m. - 4 p.m||||https://www.thv11.com/article/news/health/coronavirus/private-arkansas-lab-secures-30000-covid-19-tests-testing-available-at-new-life-church/91-a0054402-df3a-451b-a764-a5b663d46f01
 Arkansas||1306 W. Collin Raye Drive|De Queen|Wed, April 8 from 10 a.m.- 4 p.m.||||https://www.thv11.com/article/news/health/coronavirus/private-arkansas-lab-secures-30000-covid-19-tests-testing-available-at-new-life-church/91-a0054402-df3a-451b-a764-a5b663d46f01
 Arkansas||103 East 3rd Avenue|Crossett|Mon, April 13 from 11 a.m. - 5 p.m.||||
 Arkansas|New Life Church|8000 Crystal Hill Road|Little Rock|every day 10-4 until 4/11/2020||||https://www.thv11.com/article/news/health/coronavirus/private-arkansas-lab-secures-30000-covid-19-tests-testing-available-at-new-life-church/91-a0054402-df3a-451b-a764-a5b663d46f01
 Arkansas|UAMS Health|Shuffield Dr. & Jack Stephens Dr.|Little Rock|8 a.m. u2013 8 p.m daily|(501) 686-8000|||
 Arkansas||2090 S. Promenade Blvd|Mercy||479-717-7585|||
-Arkansas|Eureka Springs Family Clinic|146 Passion Play Road|Eureka Springs|8 a.m. u2013 4:30 p.m. M-F||||
+Arkansas|Eureka Springs Family Clinic|146 Passion Play Road|Eureka Springs|8 -4:30 M-F||||
+Arkansas|Quest Diagnostics||Bentonville|||health workers/first responders prioritizwed||https://www.ualrpublicradio.org/post/arkansas-covid-19-death-toll-rises-10-lawmaker-tests-positive
+Arkansas|Baptist Health Medical Center||Heber Springs||(501) 887-3279|call to schedule||https://www.nwaonline.com/news/2020/apr/02/2-state-firms-begin-drive-thru-testing-/
+Arkansas|Baptist Health||Stuttgart||(870) 673-7211|||https://www.nwaonline.com/news/2020/apr/02/2-state-firms-begin-drive-thru-testing-/
+Arkansas|Hot Spring County Health Unit||Malvern|||||https://www.nwaonline.com/news/2020/apr/02/2-state-firms-begin-drive-thru-testing-/
+Arkansas|Baptist Health Family Clinic-Caddo Valley||Arkadelphia|||||https://www.nwaonline.com/news/2020/apr/02/2-state-firms-begin-drive-thru-testing-/
+Arizona|Redirect Health Centers Clinic|16390 N 59th Ave #200|Glendale||623-334-4000|||https://redirecthealth.com/
 Arizona|Banner Desert Medical Center|1400 S Dobson Rd|Mesa|||no call required|charged as ER visit|
-Arizona|Banner Health|Multiple locations, call for details|Phoenix|7 a.m. to 5 p.m.|844-549-1851|call for pre-screen; symptomatic|Not releasing test locations, call for appt|https://www.bannerhealth.com/patients/patient-resources/covid-19#Tested
+Arizona|Banner Health|Multiple locations, call for details|Phoenix|7-5|844-549-1851|call for pre-screen; symptomatic|Not releasing test locations, call for appt|https://www.bannerhealth.com/patients/patient-resources/covid-19#Tested
 Arizona|Maready Medical|4135 S. Power Rd. #113|Mesa||480-626-2444|||https://www.fox10phoenix.com/news/list-coronavirus-testing-locations-in-arizona
-Arizona||446 Fort Tuthill Loop|Flagstaff|10 a.m. to 3 p.m.|928-679-7300|||https://www.fox10phoenix.com/news/list-coronavirus-testing-locations-in-arizona
+Arizona||446 Fort Tuthill Loop|Flagstaff|10 - 3|928-679-7300|||https://www.fox10phoenix.com/news/list-coronavirus-testing-locations-in-arizona
+Arizona|Banner Health|Tuscon|Tuscon|7 a.m. to 6 p.m.|844-549-1851|||https://www.bannerhealth.com/patients/patient-resources/covid-19#Tested
+California|Vista Complete Care|13555 BOWMAN RD SUITE 100|Auburn||(530) 885-3951|||http://www.vistacompletecare.com/
+California|Riverside University Health Center|26520 Cactus Ave|Moreno Valley||(800) 720-9553|call for appt||https://www.desertsun.com/story/news/health/2020/03/18/coronavirus-update-palm-springs-shelter-place-begins-grocery-stores-open-seniors/5075733002/
+California|Pomona Fairplex|Gate 17, W. McKinley/Fairplex Drive|Pomona|||high risk||https://www.nbclosangeles.com/news/local/coronavirus-covid-19-test-testing-los-angeles-county/2340127/
+California|Antelope Valley Mall|1233 Rancho Vista Blvd|Palmdale|||high risk||https://www.nbclosangeles.com/news/local/coronavirus-covid-19-test-testing-los-angeles-county/2340127/
+California|||Glendale|||||
+California|||Lancaster|||||
+California|South Bay Galleria|1815 Hawthorne Boulevard|Redondo Beach|||symptomatic and high risk - register here https://lacovidprod.service-now.com/rrs||https://www.randomlengthsnews.com/2020/04/06/covid-19-testing-sites-in-south-bay/
+California|||San Rafael|||referral||https://abc7news.com/coronavirus-in-california-cases-corona-viruscalifornia/6056897/
 California||1254 s camden dr|Los Angeles|||||
 California|Sonia M Gonzalez||SoCal||3234488054|||
 California||11100 Warner ave|Fountain Valley|||||
-California|Palos Verdes Medical Group|550 Deep Valley Drive, Suite 319||1-5|310-544-6858|appt - call ahead||http://pvmedgroup.com
+California|Palos Verdes Medical Group|550 Deep Valley Drive, Suite 319|Rolling Hills Estates|1-5|310-544-6858|appt - call ahead||http://pvmedgroup.com
 California|North East Medical Services|211 Eastmoor Ave|Daly City||650-550-3923|NEMS patients with appts||
 California|North East Medical Services|870 Lundy Ave|San Jose||408-573-9686|NEMS patients with appts||
-California|San Francisco General|23rd Street & Potrero Avenue|San Francisco|M-F, 9 a.m. to 6 p.m.||||https://www.sfchronicle.com/bayarea/article/Coronavirus-live-updates-news-bay-area-15169654.php
+California|San Francisco General|23rd Street & Potrero Avenue|San Francisco|M-F, 9 - 6 ||||https://www.sfchronicle.com/bayarea/article/Coronavirus-live-updates-news-bay-area-15169654.php
 California|Academic Family Medicine Center|300 Hillmont Ave, 93003|Ventura|||||
 California|Las Islas Family Medical Group|2400 S C St, 93003|Oxnard|||||https://ktla.com/news/ventura-county-setting-up-more-drive-through-coronavirus-test-sites-as-cases-rise-to-13/
 California|St. Jude Heritage Medical Group|4300 Rose Dr.|Yorba Linda|||||
@@ -52,8 +64,8 @@ California|Hansen Dam|11798 Foothill Blvd, 91342|Lakeview Terrace|||pre-screened
 California|Crenshaw Christian Center| 1132 W 78th St, 90044|Los Angeles|||pre-screened before arrival with referral||https://www.dailynews.com/2020/03/25/long-lines-big-demand-still-limited-la-area-drive-through-coronavirus-testing-inches-ahead/
 California|West LA Veteranu2019s Administration Lot 15|11301 Wilshire Blvd, 90073|Los Angeles|||pre-screened before arrival with referral||https://www.dailynews.com/2020/03/25/long-lines-big-demand-still-limited-la-area-drive-through-coronavirus-testing-inches-ahead/
 California|SDCCU Stadium|9449 Friars Rd, 92108|San Diego|||referrals only|only testing healthcare workers, first responders, people with underlying conditions, and older people living in group homes,|
-California|Adventist Health satellite location|1233 Plumas Avenue,|Yuba City|9 a.m. u2013 4 p.m. Monday u2013 Thursday; 9 a.m. u2013 noon Friday.|530-671-2020|||
-California|Peach Tree Health testing site|Corner of 5th and H streets at Marysville Immediate Care|Yuba City|7a-9p m-f; 7-7 sa; 7-5 su|530-749-3242 |call ahead so they expect you ||https://sacramento.cbslocal.com/2020/03/16/coronavirus-testing-in-yuba-and-sutter-counties/
+California|Adventist Health satellite location|1233 Plumas Avenue,|Yuba City|9 a.m. u2013 4 p.m. M - Th; 9 a.m. u2013 noon Friday.|530-671-2020|||
+California|Peach Tree Health testing site|724 5th St, Marysville, CA 95901|Yuba City|7a-9p m-f; 7-7 sa; 7-5 su|530-749-3242 |call ahead so they expect you ||https://sacramento.cbslocal.com/2020/03/16/coronavirus-testing-in-yuba-and-sutter-counties/
 California|Ampla Health Test Site|1000 Sutter Street|Yuba City|m-f|530-812-2031|||https://sacramento.cbslocal.com/2020/03/16/coronavirus-testing-in-yuba-and-sutter-counties/
 California|PIH Health|12401 Washington Blvd, 90602|Whittier|||||
 California|Huntington Hospital|100 W California Blvd, 91105|Pasadena|||||
@@ -65,8 +77,8 @@ California|||San Mateo|||must complete online screening prior|appts only|https:/
 California|||Sacramento|starts at 12|||appts only|https://www.projectbaseline.com/study/covid-19/
 California|Elevated Health|18800 Delaware Street|Huntington Beach||(714) 916-5210||$200|https://www.facebook.com/pg/ElevatedHealthHB/posts/?ref=page_internal; https://www.latimes.com/california/story/2020-03-20/drive-through-coronavirus-testing-comes-to-orange-county
 California| Diamond Stadium|500 Diamond Dr,|Lake Elsinore|9:30-3|800-945-6171|residents who live within a 50-mile radius of the City of Riverside|appts only; must be screened as high risk|https://www.projectbaseline.com/study/covid-19/; https://www.pe.com/2020/03/22/coronavirus-drive-through-testing-in-lake-elsinore-will-continue-and-expand/
-California|Kaiser - multiple locations||OC/LA||866-454-8855|Kaiser member w PCP referral||https://www.dailynews.com/2020/03/19/coronavirus-test-sites-grow-in-la-county-but-you-must-be-sick-and-follow-protocol-to-be-tested/
-California|Kaiser - multiple locations||SFBA||866-454-8855|Kaiser member w PCP referral||https://paloaltoonline.com/news/2020/03/15/stanford-kaiser-hold-drive-through-coronavirus-testing-but-you-cant-just-head-over-there
+California|Kaiser - multiple locations||Southern California||866-454-8855|Kaiser member w PCP referral||https://www.dailynews.com/2020/03/19/coronavirus-test-sites-grow-in-la-county-but-you-must-be-sick-and-follow-protocol-to-be-tested/
+California|Kaiser - multiple locations||San Francisco Bay Area||866-454-8855|Kaiser member w PCP referral||https://paloaltoonline.com/news/2020/03/15/stanford-kaiser-hold-drive-through-coronavirus-testing-but-you-cant-just-head-over-there
 California|Sutter Health|multiple locations - not public|||(866) 961-2889|Doctor's order; call if you are Sutter patient to get screened||https://www.sutterhealth.org/for-patients/health-alerts/2019-novel-coronavirus
 California|Stanford Medicine - Express Careu2019s Hoover Pavilion|211 Quarry Rd|Palo Alto|9-6; 7 days a week|650-736-5211|Physician referra w/ symptomsl; need appt; cannot use Uber/Lyft/taxi|CA resident; need to present ID when scheduling appt|https://med.stanford.edu/news/all-news/2020/03/stanford-offers-drive-through-coronavirus-test.html
 California|North East Medical Services|211 Eastmoor Ave|Daly City||650-550-3923|NEMS patients with appts||
@@ -78,13 +90,17 @@ California|San Joaquin General Hospital|500 W Hospital Rd|French Camp|10-3||||
 California|Sierra Vista Family Medical Clinic|1227 E Los Angeles Ave, 93065|Simi Valley|||||
 California|SF Medical Center|Geary Boulevard|San Francisco|||Kaiser member w PCP referral||
 California|UC San Diego Health||San Diego||800-926-8273|call for screening then receive further direction||
-California|One Medical|1004 Northgate Drive|San Rafael|||||
-California|One Medical|3333 California St.|San Francisco|||||
-California|One Medical|1299-A Oakmead Parkway|Sunnyvale|||||
-California|One Medical|10250 Santa Monica Blvd|Los Angeles|||||
+California|Cogent Family Healthcare|525 South Drive Suite 107|Mountain View|||schedule through website||https://www.simscovid.com/
+California|One Medical|1004 Northgate Drive|San Rafael||1-888-ONEMED1|appt only||https://www.onemedical.com/blog/live-well/covid-19-testing-one-medical
+California|One Medical|3333 California St.|San Francisco||1-888-ONEMED1|appt only||https://www.onemedical.com/blog/live-well/covid-19-testing-one-medical
+California|One Medical|1299-A Oakmead Parkway|Sunnyvale||1-888-ONEMED1|appt only||https://www.onemedical.com/blog/live-well/covid-19-testing-one-medical
+California|One Medical|10250 Santa Monica Blvd|Los Angeles||1-888-ONEMED1|appt only||https://www.onemedical.com/blog/live-well/covid-19-testing-one-medical
 California||28387 Coral Dune Drive|Menifee|||||
+California|West LA Veteranu2019s Administration Lot|11301 Wilshire Blvd|Los Angeles|||veterans||
 Colorado|Aurora Health & Wellness Plaza|10680 Del Mar Parkway|Aurora|9 a.m. to noon and 1 p.m. to 4 p.m.||||https://denver.cbslocal.com/2020/03/31/coronavirus-colorado-drive-thru-covid-19-testing-site-wheat-ridge/
 Colorado|JeffCo Family Health Services Center|7495 West 29th Avenue|Wheat Ridge|9 a.m. to 1 p.m.||||https://denver.cbslocal.com/2020/03/31/coronavirus-colorado-drive-thru-covid-19-testing-site-wheat-ridge/
+Colorado|VA|955 W Fillmore St|Colorado Springs|M-F 8:30-3||veterans||https://www.kktv.com/content/news/Veterans-now-have-their-own-COVID-19-testing-site-in-Colorado-Springs-569322421.html
+Colorado|VA||Aurora|||veterans||https://www.kktv.com/content/news/Veterans-now-have-their-own-COVID-19-testing-site-in-Colorado-Springs-569322421.html
 Connecticut|Danbury Hospital|95 Locust Ave.|Danbury|M-Sat 8:30 a.m. to 3:30 p.m||||https://www.westernconnecticuthealthnetwork.org/novel-coronavirus-covid19-update/covid19-collection-site-information#_ga=2.48465382.1541741055.1585055267-1007481626.1585055267
 Connecticut|Greenwich Hospital - lower level physician parking lot|5 Perryridge Road|Greenwich|M-F 8-5, S-S 9-3|203-ASK-YNHH|||https://www.ci.milford.ct.us/2019-novel-coronavirus-covid-19-information/pages/yale-new-haven-system-testing-sites
 Connecticut|Bridgeport Hospital - Ahlbin Center|226 Mill Hill Ave|Bridgeport|M-F 8-5, S-S 9-3|203-ASK-YNHH|||https://www.ci.milford.ct.us/2019-novel-coronavirus-covid-19-information/pages/yale-new-haven-system-testing-sites
@@ -97,8 +113,8 @@ Connecticut|St. Vincentu2019s Medical Center|2979 Main Street|Bridgeport|Mon-Fri
 Connecticut|Griffin Hospital|130 Division Street|Derby|M-F 8-5m S-S 8-3| 203-437-6815||appt only|https://www.griffinhealth.org/coronavirus-covid19-information/covid-19-test-collection-site
 Connecticut|Johnson Memorial Hospital - Community Medical Education Center|201 Chestnut Hill Road|Stafford Springs|9-onwards, daily||||https://www.trinityhealthofne.org/body.cfm?id=4342&iirf_redirect=1
 Connecticut|Saint Francis Hospital - Gengras Building|1000 Asylum Street|Hartford|9-onwards, daily||||https://www.trinityhealthofne.org/body.cfm?id=4342&iirf_redirect=1
-Connecticut|Saint Mary's Hospital - lower level of the Visitor's Garage|Cole Street|Waterbury|9-onwards, daily||||https://www.trinityhealthofne.org/body.cfm?id=4342&iirf_redirect=1
-Connecticut|Norwalk Hospital |Stevens Street and Elmcrest Terrance|Norwalk|M-Sat 8:30-3:30||||https://www.westernconnecticuthealthnetwork.org/novel-coronavirus-covid19-update/covid19-collection-site-information#_ga=2.48465382.1541741055.1585055267-1007481626.1585055267
+Connecticut|Saint Mary's Hospital - lower level of the Visitor's Garage|56 Franklin St, Waterbury, CT 06706|Waterbury|9-onwards, daily||||https://www.trinityhealthofne.org/body.cfm?id=4342&iirf_redirect=1
+Connecticut|Norwalk Hospital |34 Maple St, Norwalk, CT 06850|Norwalk|M-Sat 8:30-3:30||||https://www.westernconnecticuthealthnetwork.org/novel-coronavirus-covid19-update/covid19-collection-site-information#_ga=2.48465382.1541741055.1585055267-1007481626.1585055267
 Connecticut|UConn Health|263 Farmington Avenue |Farmington|M-F 10-2|860-679-1869|||https://health.uconn.edu/coronavirus/
 Connecticut|Bridgeport Hospital Milford Campus|831 Boston Post Road|Milford||833-ASK-YNHH|||https://www.bridgeporthospital.org/news/bridgeport-hospital-starts-covid19-testing-in-milford.aspx
 Connecticut|Bridgeport Hospital|267 Grant St|Bridgeport|M-F 8-5, Sat 9-3||||https://www.thehour.com/news/coronavirus/article/Drive-thru-COVID-19-testing-location-in-15140116.php
@@ -110,20 +126,22 @@ Connecticut|Waterbury Hospital - Emergency Department |68 Robbins Street|Waterbu
 Connecticut|Yale New Haven Hospital|50 Sargent Drive|New Haven|M-F 8-4:30|203-ASK-YNHH|||https://www.ci.milford.ct.us/2019-novel-coronavirus-covid-19-information/pages/yale-new-haven-system-testing-sites
 Connecticut|Westhill High School|125 Roxbury Rd|Stamford |M-F 7-4|1-883-508-8378|||https://ctmirror.org/2020/03/30/connecticut-cities-gearing-up-for-covid-19-surge-as-state-waits-for-more-medical-supplies/
 Connecticut|Murphy Medical Associates |460 Shippan Avenue |Stamford |6-8 M-F|(203) 658-6051|||https://coronatestct.com/
-DC|AllCare |1710 Rhode Island Ave NW||M-F 6p-7p; S-Su noon-1||telemedicine visit first||https://allcarefamilymed.com/coronavirus
-DC|George Washington University Hospital|||||referral from PCP||https://www.washingtonpost.com/local/getting-tested-for-coronavirus-in-virginia-maryland-dc/2020/03/26/5e19f608-6de9-11ea-a3ec-70d7479d83f0_story.html
-DC|Washington Redskins stadiumu2019s parking lot|||||referral from PCP||
-DC|Kaiser|||9-5, every day||members only||https://www.washingtonpost.com/local/getting-tested-for-coronavirus-in-virginia-maryland-dc/2020/03/26/5e19f608-6de9-11ea-a3ec-70d7479d83f0_story.html
-DC|United Medical Center|||||||https://www.washingtonpost.com/local/getting-tested-for-coronavirus-in-virginia-maryland-dc/2020/03/26/5e19f608-6de9-11ea-a3ec-70d7479d83f0_story.html
-DC|Childrenu2019s National Hospital|||||referral; children only||https://childrensnational.org/Healthcare%20Providers/Refer%20a%20Patient/mobile%20testing
-DC|Upper Chesapeake Medical Center - parking lot|500 Upper Chesapeake Dr||11-3 mwf||referral||https://www.washingtonpost.com/local/getting-tested-for-coronavirus-in-virginia-maryland-dc/2020/03/26/5e19f608-6de9-11ea-a3ec-70d7479d83f0_story.html
+DC|AllCare |1710 Rhode Island Ave NW|DC|M-F 6p-7p; S-Su noon-1||telemedicine visit first||https://allcarefamilymed.com/coronavirus
+DC|George Washington University Hospital|900 23rd St NW, Washington, DC 20037|DC|||referral from PCP||https://www.washingtonpost.com/local/getting-tested-for-coronavirus-in-virginia-maryland-dc/2020/03/26/5e19f608-6de9-11ea-a3ec-70d7479d83f0_story.html
+DC|Washington Redskins stadiumu2019s parking lot|1600 Fedex Way, Landover, MD 20785|DC|||referral from PCP||
+DC|Kaiser||DC|9-5, every day||members only||https://www.washingtonpost.com/local/getting-tested-for-coronavirus-in-virginia-maryland-dc/2020/03/26/5e19f608-6de9-11ea-a3ec-70d7479d83f0_story.html
+DC|United Medical Center|1310 Southern Ave SE, Washington, DC 20032|DC|||||https://www.washingtonpost.com/local/getting-tested-for-coronavirus-in-virginia-maryland-dc/2020/03/26/5e19f608-6de9-11ea-a3ec-70d7479d83f0_story.html
+DC|Childrenu2019s National Hospital|125 Michigan Ave NE Washington, D.C.|DC|||referral; children only||https://childrensnational.org/Healthcare%20Providers/Refer%20a%20Patient/mobile%20testing
+DC|Upper Chesapeake Medical Center - parking lot|500 Upper Chesapeake Dr|DC|11-3 mwf||referral||https://www.washingtonpost.com/local/getting-tested-for-coronavirus-in-virginia-maryland-dc/2020/03/26/5e19f608-6de9-11ea-a3ec-70d7479d83f0_story.html
+DC|One Medical|1690 36th St NW|DC||1-888-ONEMED1|Appointment only||https://www.onemedical.com/blog/live-well/covid-19-testing-one-medical
 Delaware|||Newark|||||
 Delaware|Chase Center on the Riverfront|815 Justison St|Wilmington|||||
-Delaware|Saint Francis Healthcare||Wilmington|||||
-Delaware|Bayhealth||Dover|||||
-Delaware|Beebe Healthcare||Millsboro|||||
+Delaware|Saint Francis Healthcare|1072 Justison St, Wilmington, DE 19801|Wilmington|||||
+Delaware|Bayhealth|640 S State St, Dover, DE 19901|Dover|||||
+Delaware|Beebe Healthcare|28538 Dupont Blvd, Millsboro, DE 19966|Millsboro|||||
 Delaware|Beebe Healthcare||Frankford|||||
 Delaware|Nancticoke||Seaford|||||
+Florida|Raymond James Stadium|4201 N. Dale Mabry Highway|Tampa|resumes 4/8/2020; M-F 9-5|(813) 272-5900|symptomatic and pre-registered - call||https://www.hillsboroughcounty.org/en/residents/public-safety/emergency-management/stay-safe/getting-tested
 Florida|Lee Convenient Care|4771 S Cleveland Avenue|Fort Myers|12-4||referral||https://www.winknews.com/2020/03/16/mobile-testing-centers-in-swfl-open-monday/
 Florida|Ballpark of the Palm Beaches|5444 Haverhill Road|West Palm Beach||561-642-1000|call first for pre-screen||
 Florida|Doris Ison Health Center|10300 SW 216th St.|Cutler Bay|9 a.m. to noon|305-252-4820||Appt only|https://www.miaminewtimes.com/news/miami-drive-thru-coronavirus-testing-where-to-get-tested-for-covid-19-11605465
@@ -140,7 +158,18 @@ Florida|Marathon Community Park|200 City Marina|Key West|10 a.m. to 1 p.m.|305-2
 Florida|Convention Center|9400 Universal Blvd.|Orlando|9 a.m. to 5 p.m.||||
 Florida|OMNI Healthcare|1344 S. Apollo Blvd|Melbourne|8 a.m. to 6 p.m.|321-802-551|First responders, anyone with minimal symptoms of a cough, anyone over age 45 with one chronic illness, anyone over the age of 60|Patients will have to be pre-screened and pre-register|https://www.omnihealthcare.com/
 Florida|||Homestead|||||
-Florida|Northwood Centre parking lot||Tallahassee|M-F 11-6||||https://www.wctv.tv/content/news/UPDATE--More-than-1000-people-tested-for-COVID-at-Tallahassee-site-569351981.html
+Florida|The Villages Polo Club|703 N Buena Vista Blvd|The Villages|||||https://ufhealthcovid.com/
+Florida|Premiere Medical Associates|1580 Santa Barbara Blvd|The Villages||352-259-2159|||
+Florida|Cleveland Clinic|10000 SW Innovation Way, Port St.|Lucie|9a and 5p|772-226-4846|||
+Florida|BayCare Health System|36245 U.S. Highway 27|Haines City|||||https://baycareanywhere.org/landing.htm
+Florida|BayCare Health System|4821 U.S. Highway 19|New Port Richey|||||https://baycareanywhere.org/landing.htm
+Florida|BayCare Health System|900 Carillon Parkway|St. Petersburg|||||https://baycareanywhere.org/landing.htm
+Florida|Cleveland Clinic (South County Civic Center)|16700 Jog Road|Delray Beach||561-804-0250|||
+Florida|Cleveland Clinic (Indian River Hospital Employee Parking Lot)|1000 36th Street|Vero Beach|9a and 5p.|772-226-4846|||
+Florida|Brownsville Community Center|3200 W. De Soto Street|Pensacola||904-819-5155|||
+Florida|Northwood Centre parking lot|1940 N Monroe St Tallahassee, FL 32303|Tallahassee|M-F 11-6||||https://www.wctv.tv/content/news/UPDATE--More-than-1000-people-tested-for-COVID-at-Tallahassee-site-569351981.html
+Florida|UCF||Orlando|M-F 9- 5|855-282-4860|call for appt||https://www.mynews13.com/fl/orlando/news/2020/04/05/florida-second-to-new-york-in-coronavirus-testing
+Florida|South County Civic Center|16700 Jog Road|Delray Beach|M-F 8-4; Sa 8-12|561-804-0250|call for appt||https://www.wpbf.com/article/will-dependents-receive-stimulus-checks/32056633
 Georgia|AllCare|3867 Roswell Rd NE|Atlanta||M-F 5p-6p; Sa-Su 1-2|telemedicine pre-screen||https://allcarefamilymed.com/coronavirus
 Georgia|Oconee Health Campus|1305 Jennings Mill Rd.|Watkinsville|9 a.m. to 3 p.m.|866-460-1119||Appt only|
 Georgia|Georgia Department of Public Healthu2019s West Central Health District|2100 Comer Ave.|Columbus|9 a.m. to 4 p.m.|855-962-0955|||https://www.ledger-enquirer.com/news/coronavirus/article241376946.html
@@ -160,7 +189,7 @@ Iowa|North Iowa Event Center|3700 4th St SW, 50401|Mason City|9-5, m-f|641-494-3
 Idaho|Meridian Health Plaza|3025 W. Cherry Ln.|Meridian|8 a.m. to 8 p.m.|208-302-2683|||
 Idaho|St. Lukeu2019s Meridian Hospital|520 S. Eagle Rd.|Meridian|10 a.m. to 6 p.m.|208-381-9500|||https://www.idahostatesman.com/news/coronavirus/article241274011.html
 Idaho|St. Lukeu2019s Wood River Hospital|100 Hospital Dr.|Ketchum|10 a.m. to 6 p.m.||||https://www.idahostatesman.com/news/coronavirus/article241274011.html
-Idaho|St. Luke's Boise||Boise|10 a.m. to 6 p.m.||||https://www.idahostatesman.com/news/coronavirus/article241274011.html
+Idaho|St. Luke's Boise|190 E Bannock St, Boise, ID 83712|Boise|10 a.m. to 6 p.m.||||https://www.idahostatesman.com/news/coronavirus/article241274011.html
 Idaho|Saltzer Health|9850 W. St. Lukeu2019s Drive|Nampa|8 a.m. to 8 p.m.||||https://www.idahostatesman.com/news/coronavirus/article241274011.html
 Idaho|Saltzer Health|215 E. Hawaii Ave.|Nampa|8 a.m. to 8 p.m.||||
 Idaho|Garrity Campus Clinic|1150 North Sister Catherine Way|Nampa|8am to 8pm||||https://idahonews.com/news/coronavirus/saint-alphonsus-adds-drive-in-covid-19-testing-center-in-nampa
@@ -177,6 +206,8 @@ Illinois|Northwestern Memorial Hospital|251 E Huron St|Chicago|||||
 Illinois|Rush Oak Park Hospital|520 S. Maple Ave.|Oak Park||(888) 352-RUSH||screening needed|https://chicago.suntimes.com/coronavirus/2020/3/24/21191831/map-heres-where-to-get-tested-coronavirus-chicago-illinois-covid-19
 Illinois|NorthShore University HealthSystem - Skokie|9600 Gross Point Road|Skokie||847.432.5849|||https://chicago.suntimes.com/coronavirus/2020/3/24/21191831/map-heres-where-to-get-tested-coronavirus-chicago-illinois-covid-19
 Illinois|Rush University Medical Center|1620 W. Harrison St.|Chicago||(888) 352-RUSH||screening needed|https://chicago.suntimes.com/coronavirus/2020/3/24/21191831/map-heres-where-to-get-tested-coronavirus-chicago-illinois-covid-19
+Illinois|One Medical|218 b N. Elizabeth|Chicago||1-888-ONEMED1|Appointment only||https://www.onemedical.com/blog/live-well/covid-19-testing-one-medical
+Indiana|Aria Diagnostics|635 W. 96th St|Indianapolis|||||https://www.wishtv.com/news/medical/north-side-medical-lab-doing-covid-19-testing-complying-with-cdc/
 Indiana|Champions Pavilion at the Indiana State Fairground||Marion County|M 10-6 F 10-6; Sa 10-2 (ends 4/11)||essential workers only; pre-screening and registration||https://fox59.com/news/coronavirus/city-county-agencies-offer-drive-thru-covid-19-testing-for-frontline-marion-county-employees/
 Indiana|Lilly||Indianapolis|||health workers with referrals only||https://www.fiercebiotech.com/medtech/eli-lilly-offers-drive-thru-covid-19-testing-to-indianapolis-docs-nurses
 Indiana|||New Albany||812-948-4726|||https://www.wdrb.com/news/first-drive-thru-covid--testing-opens-in-new-albany/article_336c4ee6-6aca-11ea-bc01-53d3bbbe20d3.html
@@ -203,28 +234,28 @@ Louisiana|TGMC Medical Arts facility|855 Belanger Street|Houma|||||
 Louisiana|Baton Rouge Generalu2019s Mid-City Campus|3600 Florida Blvd|Baton Rouge|1-3, m-f||referral from PCP||https://www.wrkf.org/post/louisianas-first-drive-thru-covid-19-testing-clinic-opens-baton-rouge
 Massachusetts|Crown Street parking lot|33 Tower St.|Somerville|M-Sun 9-3|||Current Cambridge Health Alliance patients only|https://www.challiance.org/about/newsroom/cambridge_health_alliance_to_provide_covid19_testi_1178
 Massachusetts|Crown Street parking lot|33 Tower St.|Somerville|M-Sun 9-3|||Current Cambridge Health Alliance patients only|https://www.challiance.org/about/newsroom/cambridge_health_alliance_to_provide_covid19_testi_1178
-Massachusetts|PhysicianOne Urgent Care |4110 Mystic Valley Pkwy|Medford|ONLY APRIL 4 8-5|855-349-2828|||https://patch.com/massachusetts/medford/drive-thru-coronavirus-testing-coming-medford
 Massachusetts|St. Vincentu2019s Hospital |123 Summer St|Worcester|||||https://www.masslive.com/coronavirus/2020/03/coronavirus-testing-locations-drive-thru-testing-has-begun-in-massachusetts-but-many-require-appointments-prescription-from-doctor.html
 Massachusetts|UMass Memorial Medical Center|119 Belmont St|Worcester|||||https://www.masslive.com/coronavirus/2020/03/coronavirus-umass-memorial-medical-center-in-worcester-to-pilot-a-drive-up-covid-19-testing-service.html
 Massachusetts|Brigham and Womenu2019s Hospital - ambulance bay|75 Francis St|Boston|||||
 Massachusetts|Suffolk Downs Race Track |525 William F McClellan Hwy|Boston|||first responders only||https://patch.com/massachusetts/boston/boston-opens-first-coronavirus-testing-site-suffolk-downs
 Massachusetts|Sturdy Memorial Urgent|266 Washington St|Attleboro||||Sturdy Memorial patients, appointment only|https://patch.com/massachusetts/attleboro/coronavirus-drive-thru-testing-center-opens-south-attleboro
 Massachusetts|CVS|720 Boston Turnpike |Shrewsbury|daily 8-8|401-374-6777 ||appointment only|https://fcam.org/CivicAlerts.aspx?AID=1415
+Massachusetts|One Medical|199 Boylston St|Chestnut Hill||1-888-ONEMED1|appt only||https://www.onemedical.com/blog/live-well/covid-19-testing-one-medical
 Maryland|AllCare|9396 Baltimore Natl Pike|Ellicott City|M-F 6p-7p, S-S 12p-1p||telemedicine visit first||https://allcarefamilymed.com/coronavirus
-Maryland|vehicle emissions site||Glen Burnie|||people with symptoms who are either a health-care worker, a first-responder, over 65 years old, live in group homes or are deemed u201cmedically unstableu201d by their doctor.||https://www.washingtonpost.com/local/getting-tested-for-coronavirus-in-virginia-maryland-dc/2020/03/26/5e19f608-6de9-11ea-a3ec-70d7479d83f0_story.html
-Maryland|vehicle emissions site||Waldorf |||people with symptoms who are either a health-care worker, a first-responder, over 65 years old, live in group homes or are deemed u201cmedically unstableu201d by their doctor.||https://www.washingtonpost.com/local/getting-tested-for-coronavirus-in-virginia-maryland-dc/2020/03/26/5e19f608-6de9-11ea-a3ec-70d7479d83f0_story.html
-Maryland|vehicle emissions site||Bel Air|||people with symptoms who are either a health-care worker, a first-responder, over 65 years old, live in group homes or are deemed u201cmedically unstableu201d by their doctor.||https://www.washingtonpost.com/local/getting-tested-for-coronavirus-in-virginia-maryland-dc/2020/03/26/5e19f608-6de9-11ea-a3ec-70d7479d83f0_story.html
-Maryland|FedEx Field||Landover||301-883-6627|appts only; ||
+Maryland|vehicle emissions site|721 E Ordnance Rd, Curtis Bay, MD 21226|Glen Burnie|||people with symptoms who are either a health-care worker, a first-responder, over 65 years old, live in group homes or are deemed u201cmedically unstableu201d by their doctor.||https://www.washingtonpost.com/local/getting-tested-for-coronavirus-in-virginia-maryland-dc/2020/03/26/5e19f608-6de9-11ea-a3ec-70d7479d83f0_story.html
+Maryland|vehicle emissions site|28 Henry Ford Cir #2787, Waldorf, MD 20602|Waldorf |||people with symptoms who are either a health-care worker, a first-responder, over 65 years old, live in group homes or are deemed u201cmedically unstableu201d by their doctor.||https://www.washingtonpost.com/local/getting-tested-for-coronavirus-in-virginia-maryland-dc/2020/03/26/5e19f608-6de9-11ea-a3ec-70d7479d83f0_story.html
+Maryland|vehicle emissions site|1631 Robin Cir #3068, Forest Hill, MD 21050|Bel Air|||people with symptoms who are either a health-care worker, a first-responder, over 65 years old, live in group homes or are deemed u201cmedically unstableu201d by their doctor.||https://www.washingtonpost.com/local/getting-tested-for-coronavirus-in-virginia-maryland-dc/2020/03/26/5e19f608-6de9-11ea-a3ec-70d7479d83f0_story.html
+Maryland|FedEx Field|1600 Fedex Way, Landover, MD 20785|Landover||301-883-6627|appts only; ||
 Maryland|Chesapeake ERgent Care|1071 MD-3 #101,|Gambrills|||||
 Maryland|Doctors Community Hospital|8118 Good Luck Rd|Lanham|||||
 Maryland|Anne Arundel Medical Center|2001 Medical Pkwy|Annapolis|||||
 Maine|Anthem Blue Cross|2 Gannett Drive|Portland|8-8 daily|(207) 358-7400|call first to be pre-screened||https://www.pressherald.com/2020/04/01/new-drive-through-test-site-for-covid-19-to-open-in-south-portland/
 Maine|Northern Light Blue Hill Hospital|57 Water St, Blue Hill, 04614|Blue Hill||844-489-1822|call ahead to be screened||http://castinepatriot.com/news/2020/mar/20/drive-up-testing-for-covid-19-in-stonington-castin/#.XoIv9NNKjUI
-Maine|Bass Park||Bangor|9-3 m-f||pre-screen by provider||https://www.newscentermaine.com/article/news/health/coronavirus/drive-up-covid-19-testing-site-to-open-in-bangor/97-1f941345-61bd-4ee6-9c61-4419b64ff180
-Maine|Mercy Hospital's Fore River campus||Portland||844-489-1822|call ahead to be screened||
-Maine|Inland Hospital||Waterville|||pre-screen by provider + calling ahead||
-Maine|Maine General Medical Center||Ellsworth|||symptoms + calling ahead||
-Maine|Maine General Medical Center||Augusta|||symptoms + calling ahead||
+Maine|Bass Park|Bass Park Blvd, Bangor, ME 04401|Bangor|9-3 m-f||pre-screen by provider||https://www.newscentermaine.com/article/news/health/coronavirus/drive-up-covid-19-testing-site-to-open-in-bangor/97-1f941345-61bd-4ee6-9c61-4419b64ff180
+Maine|Mercy Hospital's Fore River campus|175 Fore River Pkwy floor 1, Portland, ME 04102|Portland||844-489-1822|call ahead to be screened||
+Maine|Inland Hospital|200 Kennedy Memorial Dr, Waterville, ME 04901|Waterville|||pre-screen by provider + calling ahead||
+Maine|Maine General Medical Center|Ellsworth|Ellsworth|||symptoms + calling ahead||
+Maine|Maine General Medical Center|35 Medical Center Pkwy, Augusta, ME 04330|Augusta|||symptoms + calling ahead||
 Michigan|Spectrum Health||Grand Rapids||616-391-2380|||https://www.michiganradio.org/post/drive-thru-coronavirus-test-sites-pop-michigan-they-cant-test-everyone
 Michigan|Spectrum Health||Rockford||616-391-2380|||https://www.michiganradio.org/post/drive-thru-coronavirus-test-sites-pop-michigan-they-cant-test-everyone
 Michigan|Henry Ford Allegiance Hospital|100 East Michigan Avenue|Jackson||800-592-4784|symptoms or having been exposed to covid/recently traveled||https://www.crainsdetroit.com/coronavirus/southeast-michigan-hospitals-begin-drive-through-coronavirus-testing
@@ -254,8 +285,6 @@ Missouri|Citizens Memorial Hospital|1125 N. Butterfield Road|Bolivar|M-Sat 10-4|
 Missouri|Parkway Center|5816 Osage Beach Parkway|Osage Beach|573-348-7419|||screening and appointment required|https://www.lakeexpo.com/news/coronavirus/lake-regional-announces-drive-thru-covid--testing-site/article_4fe9976e-7069-11ea-800d-e79d409d1dd7.html
 Missouri|Saint Lukeu2019s Health System|8880 NE 82nd Terrace, 64158|Shoal Creek||816-932-5100|appts only; existing patient or employee with referral||https://www.saintlukeskc.org/about/news/saint-lukes-news-three-covid-19-drive-thru-testing-sites-set-qualifying-saint-lukes
 Missouri|Saint Lukeu2019s Health System||Blue Springs||816-932-5100|appts only; existing patient or employee with referral||https://www.saintlukeskc.org/about/news/saint-lukes-news-three-covid-19-drive-thru-testing-sites-set-qualifying-saint-lukes
-Mississippi|Pemberton Square Mall|350 Pemberton Square Blvd|Vicksburg|ONLY March 31 9-4|601-496-7200||screening required|https://msdh.ms.gov/msdhsite/_static/23,21919,221.html
-Mississippi|Greenwood-Leflore County Civic Center|200 Mississippi Highway 7|Greenwood|ONLY March 31 9-4|601-496-7200||screening required|https://msdh.ms.gov/msdhsite/_static/23,21919,221.html
 Mississippi|Former Sears Auto Center |1051 Bonita Lakes Cir|Meridian||601-474-3775|||https://www.wtok.com/content/news/Meridians-first-COVID-19-testing-site-coming-soon--569230231.html
 Mississippi|Methodist Hospital-Olive Branch|4250 Bethel Road|Olive Branch||662 932-9000||call ahead|https://www.facebook.com/desotocountyemergencyservices/posts/2978277355563697
 Mississippi|Baptist Memorial Hospital u2013 DeSoto|7601 Southcrest Parkway|Southaven||662 772-4000||call ahead|https://www.facebook.com/desotocountyemergencyservices/posts/2978277355563697
@@ -316,6 +345,7 @@ New Jersey|Bergen Community College|400 Paramus Rd|Paramus|8-4|(800)-222-1222 ||
 New Jersey|PNC Bank Arts Center|116 Garden State Pkwy|Holmdel|8 onwards||||https://covid19.nj.gov/locations?query=Testing+Centers+in+NJ&tabOrder=all%2CpromotedContent%2Clocations%2Cresources%2CNJfaqs%2CjobPostings%2CAASfaqs%2Ccoronavirus
 New Jersey|Burlington County Emergency Services Training Center|drive|Westampton|daily 1-5|609u2010726u20107097||appt only|https://www.ibx.com/htdocs/custom/covid19/pdfs/covid-19-testing-locations-ibx.pdf
 New Jersey|Kean University|1000 Morris Ave|Union||||appointment only|https://covid19.nj.gov/locations?query=Testing+Centers+in+NJ&tabOrder=all%2CpromotedContent%2Clocations%2Cresources%2CNJfaqs%2CjobPostings%2CAASfaqs%2Ccoronavirus
+New Jersey|Veterans Park|669 Avenue A|Bayonne|10-3:30||screening by CarePoint doctors||https://hudsonreporter.com/2020/03/25/bayonne-medical-center-starts-drive-thru-testing-for-covid-19-by-referral/
 New Mexico|Alta Vista Regional|104 Legion Drive|Las Vegas|M-F 2-3|505-426-3615|referral||https://www.santafenewmexican.com/news/coronavirus/test-sites-ramping-up-around-new-mexico/article_09f6e0fa-6ded-11ea-a4d2-634e1c518b71.html
 New Mexico|Presbyterian Espau00f1ola Hospital|1010 Spruce St|Espau00f1ola||505-753-7111|phone screen||https://www.santafenewmexican.com/news/coronavirus/test-sites-ramping-up-around-new-mexico/article_09f6e0fa-6ded-11ea-a4d2-634e1c518b71.html
 New Mexico|Union County General Hospital|300 Wilson St|Clayton||575-374-2585|pre-screen - call||https://www.santafenewmexican.com/news/coronavirus/test-sites-ramping-up-around-new-mexico/article_09f6e0fa-6ded-11ea-a4d2-634e1c518b71.html
@@ -329,8 +359,12 @@ New Mexico|Nor-Lea General Hospital|126 Tatum Highway|Lovington|10-4|575-396-909
 New Mexico|Optum New Mexico||Albuquerque|||appts only||
 New Mexico|San Juan Regional Medical Center|400 W. Maple St.|Farmington||505-516-0938|||https://www.santafenewmexican.com/news/coronavirus/test-sites-ramping-up-around-new-mexico/article_09f6e0fa-6ded-11ea-a4d2-634e1c518b71.html
 New Mexico|NMDOH|2669 N Scenic Dr,|Alamogordo|5-5|575-443-7505|call for details||
+Nevada|Craig Convenient Care|4090 W. Craig Road|Las Vegas|M-F 8-5; Sa 10-6|702-877-5199|call for pre-screening||https://www.reviewjournal.com/local/local-las-vegas/las-vegas-urgent-care-stops-drive-through-coronavirus-testing-1986895/
 Nevada|Sahara West Urgent Care|||||Referral from primary doctor|Appt only, About 300 test kits left|https://www.fox5vegas.com/coronavirus/drive-thru-covid--testing-halted-staff-overwhelmed-in-las/article_5aae8078-6a3e-11ea-a597-5b88fd5f3b29.html
+Nevada|Flamingo Healthcare Center|5580 W. Flamingo Road|Las Vegas|M-F 8-5|702-877-5199|call for pre-screening||https://www.reviewjournal.com/local/local-las-vegas/las-vegas-urgent-care-stops-drive-through-coronavirus-testing-1986895/
+Nevada|Lake Mead Convenient Care|310 W. Lake Mead Parkway|Henderson|M-F 8-5|702-877-5199|call for pre-screening||https://www.reviewjournal.com/local/local-las-vegas/las-vegas-urgent-care-stops-drive-through-coronavirus-testing-1986895/
 Nevada|UNLV Medicine|1125 Shadow Lane|Las Vegas|8:30am - 3:00pm M-F|702-583-4408||Appt only|
+Nevada|Serenity Mental Health|755 N. Roop St Ste. 101|Carson City|||Fill out questionaire to COVID19@serenitymentalhealth.org|1 test per car|https://www.serenitymentalhealth.org/
 New York|Aqueduct Racetrack|110-00 Rockaway Blvd|Queens||883-SOMOSNY|||https://qns.com/story/2020/03/23/with-live-racing-suspended-aqueduct-racetracks-parking-lot-hosts-coronavirus-testing-site/
 New York|South Beach Psychiatric Center parking lot|777 Seaview Ave|Staten Island|11-7|888-364-3065||Appt only|https://www.silive.com/news/2020/03/1st-in-nyc-drive-through-testing-for-coronavirus-in-ocean-breeze-politician-says.html
 New York|Anthony Wayne Recreation Area|Palisades Interstate Pkwy|Bear Mountain|7-7|888-364-3065||Appt only|https://www.lohud.com/story/news/health/2020/03/18/coronavirus-drive-thru-testing-center-opens-rockland/2864688001/
@@ -343,21 +377,7 @@ New York|ProHEALTH Urgent Care of Little Neck|254-61 Nassau Blvd |Queens|M-F 8-8
 New York|ProHEALTH Urgent Care of Jericho |555 N Broadway Jericho|Jericho|M-F 8-8, S-S 8-6|516-874-0411||ProHEALTH patients only, by appt|https://longislandweekly.com/prohealth-launches-drive-thru-testing-for-coronavirus/
 New York|Intermodal Center at Dutchess Stadium|1500 NY-9D|Wappingers Falls|M-Sat 8:30-3:30||||https://patients.healthquest.org/novel-coronavirus-covid-19-update-2/covid-19-collection-site-information/
 New York|Tech City |300 Enterprise Drive|Kingston|M-Sat 8:30-3:30||||https://patients.healthquest.org/novel-coronavirus-covid-19-update-2/covid-19-collection-site-information/
-New York|Aqueduct Racetrack|110-00 Rockaway Blvd|Queens||883-SOMOSNY|||https://qns.com/story/2020/03/23/with-live-racing-suspended-aqueduct-racetracks-parking-lot-hosts-coronavirus-testing-site/
-New York|ProHEALTH Campus u2013 Lake Success|3 Delaware Drive|Lake Success|daily 8-5|1-516-874-0411||ProHEALTH patients only, by appt|
-New York|ProHEALTH Urgent Care of Riverhead|1149 Old Country Road |Riverhead|daily 8-5|1-516-874-0411 ||by appt|https://www.prohealthcare.com/about-us/insights/drive-thru-testing.html
-New York|ProHEALTH Urgent Care of Little Neck|254-61 Nassau Blvd |Queens|M-F 8-8, S-S 8-5|516-874-0411||ProHEALTH patients only, by appt|https://www.prohealthcare.com/about-us/insights/drive-thru-testing.html
-New York|ProHEALTH Urgent Care of Jericho |555 N Broadway Jericho|Jericho|M-F 8-8, S-S 8-6|516-874-0411||ProHEALTH patients only, by appt|https://www.prohealthcare.com/about-us/insights/drive-thru-testing.html
-New York|Bay Plaza AMC Theater|2210 Bartow Avenue|Bronx|8-6|888-364-3065 ||appt only|https://cbs6albany.com/news/coronavirus/mobile-coronavirus-testing-site-opens-in-the-bronx
-New York|South Beach Psychiatric Center parking lot|777 Seaview Ave|Staten Island|11-7|888-364-3065||Appt only|https://www.silive.com/news/2020/03/1st-in-nyc-drive-through-testing-for-coronavirus-in-ocean-breeze-politician-says.html
-New York|Anthony Wayne Recreation Area|Palisades Interstate Pkwy|Bear Mountain|7-7|888-364-3065||Appt only|https://www.lohud.com/story/news/health/2020/03/18/coronavirus-drive-thru-testing-center-opens-rockland/2864688001/
-New York|Central Crossing Shopping Center|175 NY-59|Spring Valley||845-271-6300 ||Appt only|http://westchester.news12.com/story/41908571/rockland-county-to-open-drivethrough-testing-center
-New York|Jones Beach at Teddy Roosevelt||Wantagh|8-8|||appt only|https://www.newsday.com/news/health/virus-test-sites-1.43250642
-New York|Glen Island Park|Weyman Ave|New Rochelle||(888) 364-3065|||https://www.nydailynews.com/coronavirus/ny-coronavirus-cuomo-mobile-testing-20200313-x6b6n2shdfgqrjn5qlttv65auu-story.html
-New York|Rochester General Hospital|1425 Portland Ave|Rochester||(585) 753-5555|||https://www.democratandchronicle.com/story/news/2020/03/16/coronavirus-first-local-testing-includes-drive-through-site/5059051002/
-New York|AFC Urgent Care ||Stony Brook|m-sun 7-7|888-364-3065||appt only|https://news.stonybrook.edu/sb_medicine/new-york-state-partners-with-sbu-to-start-coronavirus-testing-at-university/
-New York|Intermodal Center at Dutchess Stadium|1500 NY-9D|Wappingers Falls|M-Sat 8:30-3:30||||https://patients.healthquest.org/novel-coronavirus-covid-19-update-2/covid-19-collection-site-information/
-New York|Tech City |300 Enterprise Drive|Kingston|M-Sat 8:30-3:30||||https://patients.healthquest.org/novel-coronavirus-covid-19-update-2/covid-19-collection-site-information/
+New York|Silver Star Urgent Care|625 Rockaway Turnpike|Lawrence||(516) 871-3003|||https://silverstarurgentcare.com
 Ohio|UH Landerbrook Health Center|5850 Landerbook Dr||||||
 Ohio|Cleveland Clinic - Main campus|9500 Euclid Ave|Cleveland|||||
 Ohio|Premier Health|1801 Edwin C. Moses Blvd.|Dayton|10 a.m. to 6 p.m.||||https://www.premierhealth.com/news-and-events/news/2020/03/16/premier-health-university-of-dayton-to-set-up-covid-19-collection-site
@@ -366,10 +386,12 @@ Ohio|UH Landerbrook Health Center|5850 Landerbrook Dr.|Mayfield Heights|||||http
 Oklahoma|Kay County Health Department|433 Fairview Ave|Ponca City||580-762-1641||Appt only|https://www.koco.com/article/what-you-need-to-know-about-drive-thru-coronavirus-testing-sites-in-oklahoma/31980168#
 Oklahoma|Pittsburg County Health Department|1400 E College Ave|McAlester||918-423-1267||Appt only|https://www.koco.com/article/what-you-need-to-know-about-drive-thru-coronavirus-testing-sites-in-oklahoma/31980168#
 Oklahoma|Tulsa Health Department||||918-582-9355||Appt only|https://www.koco.com/article/what-you-need-to-know-about-drive-thru-coronavirus-testing-sites-in-oklahoma/31980168#
+Oregon|Samaritan Lebanon Community Hospital|525 N Santiam Hwy SE|Lebanon|||||
 Oregon|Oregon Health and Science University||Hillsboro|||OHSU staff and patients only||
 Oregon|Virginia Garcia Memorial|226 SE 8th Ave|Hillsboro|MWF, appt only||Virgina Garcia patients only||
-Oregon|Providence Medical Center||Portland|||||
-Oregon|One Medical|3138 N Vancouver Ave|Portland|||||
+Oregon|Providence Medical Center|4805 NE Glisan St|Portland|||||
+Oregon|One Medical|3138 N Vancouver Ave|Portland||1-888-ONEMED1|appt only||https://www.onemedical.com/blog/live-well/covid-19-testing-one-medical
+Pennsylvania|Abington Memorial Hospital|1200 Old York Rd|Abington|||||
 Pennsylvania|Doylestown Health|595 W. State Street|Doylestown|M-F 8-noon|(267-885-1722)||appt required|https://www.doylestownhealth.org/about/news/health-news-and-blog/information-on-coronavirus-covid-19
 Pennsylvania|Abington Memorial Hospital - Rosenfeld Cancer Center Parking Lot|1200 Old York Road|Abington|daily 8-4:30|215u2010344u20108422||appt required|https://www.ibx.com/htdocs/custom/covid19/pdfs/covid-19-testing-locations-ibx.pdf
 Pennsylvania|Jefferson Center City|945 Sansom Street|Philadelphia|M-F 8-5|215u2010327u2010 7837||appt required|https://www.ibx.com/htdocs/custom/covid19/pdfs/covid-19-testing-locations-ibx.pdf
@@ -386,12 +408,13 @@ Pennsylvania|Genesis Diagnostic|900 Town Center Dr|Langhorne|M-Sat 9-6|||appt on
 Pennsylvania|Jefferson Bucks Hospital|380 N Oxford Valley Rd|Langhorne|M-F 8-5||||https://6abc.com/6045920/
 Pennsylvania|Jefferson Frankford Hospital|4900 Frankford Ave|Philadelphia|M-F 8-5||||https://6abc.com/6045920/
 Pennsylvania|Jefferson Torresdale Hospital|10800 Knights Rd|Philadelphia|M-F 8-5||||https://6abc.com/6045920/
+Pennsylvania|Pennsylvania College of Health Sciences|850 Greenfield Road|Lancaster|M-F 9-6; S-S 9-2||referral||https://www.lancastergeneralhealth.org/coronavirus/coronavirus-testing-sites
 Rhode Island|Rhode Island College|600 Mt Pleasant Ave|Providence|daily 9-3|855-840-4774||appt required|https://turnto10.com/news/local/appointment-only-mobile-testing-sites-opening-at-ris-public-colleges
-Rhode Island|Community College of Rhode Island||Warwick|daily 9-3|855-840-4775||appt required|https://turnto10.com/news/local/appointment-only-mobile-testing-sites-opening-at-ris-public-colleges
+Rhode Island|Community College of Rhode Island|400 East Ave, Warwick, RI 02886|Warwick|daily 9-3|855-840-4775||appt required|https://turnto10.com/news/local/appointment-only-mobile-testing-sites-opening-at-ris-public-colleges
 Rhode Island|University of Rhode Island|45 Upper College Rd|Kingston|daily 9-3|855-840-4776||appt required|https://turnto10.com/news/local/appointment-only-mobile-testing-sites-opening-at-ris-public-colleges
 South Carolina|AnMed Health Oglesby Center A|2000 East Greenville St|Anderson|MF 9 a.m. - 3:30 p.m.|||Appointment Only|https://scha.org/news/hospitals-creating-drive-thru-specimen-collection-sites-to-combat-coronavirus/
 South Carolina|Beaufort Memorial Medical and Administrative Center|990 Ribaut Rd.|Beaufort|M-F 8 a.m. to 8 p.m. S 8 a.m. to 5 p.m.|||Appointment Only|https://www.islandpacket.com/news/local/article241168611.html
-South Carolina|Citadel Mall campus||Charleston||||Appointment Only|https://scha.org/news/hospitals-creating-drive-thru-specimen-collection-sites-to-combat-coronavirus/
+South Carolina|Citadel Mall campus|2070 Sam Rittenberg Blvd, Charleston, SC 29407|Charleston||||Appointment Only|https://scha.org/news/hospitals-creating-drive-thru-specimen-collection-sites-to-combat-coronavirus/
 South Carolina|McLeod Health|711 Chesterfield Highway|Cheraw||||Appointment Only|https://scha.org/news/hospitals-creating-drive-thru-specimen-collection-sites-to-combat-coronavirus/
 South Carolina|McLeod Health|10 East Hospital St.|Clarendon||||Appointment Only|https://scha.org/news/hospitals-creating-drive-thru-specimen-collection-sites-to-combat-coronavirus/
 South Carolina|Prisma Health Richland Hospital|5 Richland Medical Park Dr.|Columbia|9 a.m. to 5 p.m.|||Appointment Only|https://scha.org/news/hospitals-creating-drive-thru-specimen-collection-sites-to-combat-coronavirus/
@@ -411,20 +434,25 @@ South Carolina|Colonial Health Care,|325 Broad St|Sumter||||No appointment neces
 South Carolina|Union Medical Center|322 W South St|Union|M-F 9 a.m. to 4 p.m.||||
 South Carolina|Cherokee Medical Center|1530 N Limestone St|Gaffney|M-F 9 a.m. to 4 p.m.||||
 South Carolina|USC Upstate|305 North Campus Blvd|Spartanburg|M-F 9 a.m. to 4 p.m.||||
+South Carolina|Mcleod Health Cheraw|711 Chesterfield Hwy,|Cheraw|||||https://www.mcleodhealth.org/services/care/telehealth/
 South Dakota|Monument Health|2116 Jackson Boulevard|Rapid City|7 a.m. to 7 p.m.|1-800-279-1466|flu like symptoms, recently traveled, exposed to someone with a confirmed case|need referral|https://www.newscenter1.tv/monument-health-adding-drive-through-testing-for-coronavirus/
+South Dakota|Sanford Health|N/A|Sioux Falls||||Need referral|https://news.sanfordhealth.org/coronavirus-disease-2019-covid-19/sf-bemidji-mobile-testing/
 Tennessee|East Tennessee Medical Group|266 Joule Street|Alcoa|8 a.m. to 5 p.m.||temp over 100.4, cough or shortness of breath||https://www.wvlt.tv/content/news/Coronavirus-drive-thru-testing-available-in-Blount-County-568897061.html
-Tennessee|Nissan Stadium|1 Titans Way|Nashville|MWF 9 a.m. to 3 p.m|615-862-7777||need phone screening|https://www.wkrn.com/community/health/coronavirus/covid-19-assessment-centers-open-across-nashville/
-Tennessee|Meharry Medical College|1005 Dr DB Todd Jr Blvd|Nashville|MWF 9 a.m. to 3 p.m|615-862-7777||need phone screening|https://www.tennessean.com/story/news/health/2020/03/27/nashville-and-meharry-coronavirus-testing-centers-open-next-week/2926480001/
-Tennessee|K-Mart parking lot|2491 Murfreesboro Pike|Nashville|MWF 9 a.m. to 3 p.m|615-862-7777||need phone screening|https://www.tennessean.com/story/news/health/2020/03/27/nashville-and-meharry-coronavirus-testing-centers-open-next-week/2926480001/
+Tennessee|Nissan Stadium|1 Titans Way|Nashville|MWF 9- 3|615-862-7777||need phone screening|https://www.wkrn.com/community/health/coronavirus/covid-19-assessment-centers-open-across-nashville/
+Tennessee|Meharry Medical College|1005 Dr DB Todd Jr Blvd|Nashville|MWF 9- 3 |615-862-7777||need phone screening|https://www.tennessean.com/story/news/health/2020/03/27/nashville-and-meharry-coronavirus-testing-centers-open-next-week/2926480001/
+Tennessee|K-Mart parking lot|2491 Murfreesboro Pike|Nashville|MWF 9- 3|615-862-7777||need phone screening|https://www.tennessean.com/story/news/health/2020/03/27/nashville-and-meharry-coronavirus-testing-centers-open-next-week/2926480001/
 Tennessee|Laboratory Service Center and Physician Services in Cleveland|2650 Executive Park NW, Suite 5|Cleveland|SS 8 a.m. to 6 p.m. MF 8:30 am - 5pm|||$200, free for first responders|https://docs.google.com/forms/d/e/1FAIpQLSd-rjftzLBmCasNorsXdaEPzoavLTf3nYFHkI59_mjae7b8NA/viewform
 Tennessee|Tiger Lane|450 Early Maxwell Blvd|Memphis||901-203-5526|text covid to the number||
-Texas|Hillside Primary Care|12410 Toepperwein Rd|Live Oak||2107426555|||
+Texas|Omni Medical|McDermott Rd|Plano|M-F|972-668-6868|call for screening||omnimedicalcenter.com
+Texas|Omni Medical|3413 Spectrum Blvd Suite #100|Richardson|M-F|972-668-6868|call for screening||omnimedicalcenter.com
+Texas|Ellis Davis Field House| 9191 S Polk|Dallas|||||https://www.wfaa.com/article/news/health/coronavirus/dallas-county-begins-drive-thru-testing-for-coronavirus-this-weekend/287-2ea30634-ac39-4d71-8824-7b854c3e0768
+Texas||12300 Ford Road Suite 135|Farmers Branch|||||
 Texas|AllMedPhysicians|1760 FM 967|Buda|||www.AllMedPhysicians.com Sign in to Patient Portal to request an appointment for test||
 Texas|||El Paso|7-5 m-sa|915-212-0783|symptomatic and 65+ or high risk |Photo ID|https://www.ktsm.com/coronavirus-2/el-paso-opens-covid-19-drive-thru-screening-for-more-people/
 Texas|Clinicas Mi Doctor - Lewisville|701 S Stemmons Fwy|Lewisville||1-888-776-5252|||
 Texas|MD Kids Pediatrics - Harrisburg|6812 Harrisburg Blvd|Houston||1-888-776-5252|||
 Texas|Clinicas Mi Doctor|10058 Long Point Rd|Houston||1-888-776-5252|||
-Texas|American Airlines Center|2500 Victory Ave|Dallas|||||https://www.dshs.state.tx.us/coronavirus/testing.aspx
+Texas|American Airlines Center|2500 Victory Blvd|Dallas|8-8||senior age with high temp||https://www.wfaa.com/article/news/health/coronavirus/dallas-county-begins-drive-thru-testing-for-coronavirus-this-weekend/287-2ea30634-ac39-4d71-8824-7b854c3e0768
 Texas|Ellis Davis Field House|9191 S. Polk S|Dallas|||||https://www.dshs.state.tx.us/coronavirus/testing.aspx#dallas
 Texas|Clinicas Mi Doctor - Seminary location|4200 South Fwy. #106|Forth Worth||1-888-776-5252|||
 Texas|MD Kids Pediatrics - West Plano|7800 Preston Rd. #300|Plano||1-888-776-5252|||
@@ -442,15 +470,39 @@ Texas|My Family Doctor Clinic|6430 Hillcroft Ave|Houston|9 a.m. to 4 p.m.||||htt
 Texas|Butler Stadium|13755 S. Main St.|Houston||832-393-4220|||
 Texas|United Memorial Medical Center|510 West Tidwell|Houston|8:00 AM - 8:00 PM||||
 Texas|Austin / Travis County Public Health||Austin||||High Priority Cases|
-Utah|Farmington Health Center|165 N. University Ave|Farmington|MF 8 a.m. to 6 p.m. SS 10 a.m. to 3 p.m.|801-587-0712 |coronavirus symptoms|need referral|https://healthcare.utah.edu/publicaffairs/news/2020/03/covid19-evaluations.php
-Utah|Redwood Health Center|1525 2100 South|Salt Lake City|MF 8 a.m. to 6 p.m. SS 10 a.m. to 3 p.m.|801-587-0712 |coronavirus symptoms|need referral|https://healthcare.utah.edu/publicaffairs/news/2020/03/covid19-evaluations.php
-Utah|South Jordan Health Center|5126 W. Daybreak Pkwy|South Jordan|MF 8 a.m. to 6 p.m. SS 10 a.m. to 3 p.m.|801-587-0712 |coronavirus symptoms|need referral|https://healthcare.utah.edu/publicaffairs/news/2020/03/covid19-evaluations.php
-Utah|Sugar House Health Center|1280 E. Stringham Ave|Salt Lake City|MF 8 a.m. to 6 p.m. SS 10 a.m. to 3 p.m.|801-587-0712 |coronavirus symptoms|need referral|https://healthcare.utah.edu/publicaffairs/news/2020/03/covid19-evaluations.php
-Virginia|Virginia Hospital Center |1429 N. Quincy St|Arlington|MF 9 a.m. to 3 p.m.|703.558.5766||appt only|https://www.virginiahospitalcenter.com/
-Virginia|Parking lot at PM Pediatrics|11056 Lee Highway|Fairfax|10:30 a.m. to 7:15 a.m.|703-552-5437||need referall|https://pmpediatrics.com/location/virginia-fairfax/
+Texas|Christus Spohn Memorial|2606 Hospital Blvd|Corpus Christi||361-826-7200|appt - call for screening||https://www.caller.com/story/news/local/2020/03/19/drive-thru-coronavirus-testing-starts-corpus-christi/2872017001/#
+Texas|Texas Tech University Health Sciences Center|3401 SE 10th Ave|Amarillo|9 a.m. to 3 p.m., M - F|806-378-6300|||https://www.amarillo.gov/Home/Components/News/News/902/16
+Texas|UMC Health System|602 Indiana Avenue|Lubbock||806-761-0111|||
+Texas|Harmony Clinics|4412 Kell Blvd|Wichita Falls||940-233-1822|||https://www.harmonywf.com/
+Texas|Angelo State University, Foster Field|2601 W Ave N|San Angelo|M - F 9 am to 5 pm|325-481-2050|||https://www.shannonhealth.com/education-and-resources/covid-19-information/
+Texas|Baylor Scott & White Medical Center|2401 S 31st St.|Temple|||||https://www.bswhealth.com/Pages/coronavirus-information.aspx
+Texas|Neighborhood Medical Center Clinic|5917 Belt Line Rd.|Dallas||972-275-6910|||https://www.neighborhoodmedicalcenter.com/
+Texas|Urgentology Care in Dallas|4130 N. Collins St.|Arlington|||||https://www.urgentologycare.com/services/covid-19-testing-and-screening/
+Texas|Sinai Urgent Care|211 E FM 544|Murphy||972-200-3199|||
+Texas|Austin Emergency Center South Lamar|4014 South Lamar Blvd|Austin||512-774-5780|||https://austiner.com/
+Texas|Geneus|5726 West Hausman Road, Suite 112|San Antonio||844-800-2334|||https://www.geneushealth.com/contact-us
+Texas|Gustafson Stadium|7001 Culebra Rd.|San Antonio|||||
+Texas|Freeman Coliseum|3201 E Houston St.|San Antonio|||||
+Texas|South Texas Medical Center|8431 Fredericksburg Rd.|San Antonio|||||https://southtexasmed.com/
+Utah|Farmington Health Center|165 N. University Ave|Farmington|MF 8 -6 SS 10- 3 |801-587-0712 |coronavirus symptoms|need referral|https://healthcare.utah.edu/publicaffairs/news/2020/03/covid19-evaluations.php
+Utah|Provo Town Centre Mall|1200 Towne Centre Blvd|Provo|||||https://www.heraldextra.com/news/local/covid-19-testing-capacity-increases-in-utah-county/collection_e5c3ed6e-d6e8-56d8-ac8c-7f327ea672d3.html#1
+Utah|Redwood Health Center|1525 2100 South|Salt Lake City|MF 8 -6 SS 10- 3 |801-587-0712 |coronavirus symptoms|need referral|https://healthcare.utah.edu/publicaffairs/news/2020/03/covid19-evaluations.php
+Utah|South Jordan Health Center|5126 W. Daybreak Pkwy|South Jordan|MF 8 -6 SS 10- 3 |801-587-0712 |coronavirus symptoms|need referral|https://healthcare.utah.edu/publicaffairs/news/2020/03/covid19-evaluations.php
+Utah|Sugar House Health Center|1280 E. Stringham Ave|Salt Lake City|MF 8 -6 SS 10- 3|801-587-0712 |coronavirus symptoms|need referral|https://healthcare.utah.edu/publicaffairs/news/2020/03/covid19-evaluations.php
+Utah|Timpanogos Regional Hospital||Orem|||get assessed here http://testutah.com||https://www.heraldextra.com/news/local/covid-19-testing-capacity-increases-in-utah-county/collection_e5c3ed6e-d6e8-56d8-ac8c-7f327ea672d3.html#1
+Utah|Heber Valley InstaCare|1485 South Hwy 40|Heber||844-442-5224|call ahead||https://hebervalleylife.com/covid-19-testing-increased-in-wasatch-back/
+Utah|Park City InstaCare|1750 Sidewinder Drive|Park City||844-442-5224|call ahead||https://hebervalleylife.com/covid-19-testing-increased-in-wasatch-back/
+Utah|Park City Ice Arena|600 Gilmore Way|Park City|M-F 9-6; S-S 12-6||||https://hebervalleylife.com/covid-19-testing-increased-in-wasatch-back/
+Utah|Alta View InstaCare|9450 S 1300 E|Sandy|9 a.m. to 5 p.m.||||https://intermountainhealthcare.org/covid19-coronavirus/get-testing/locations-requiring-an-order/
+Utah|Fillmore Clinic|700 S Highway 99|Fillmore|MF 9 a.m. to 4:30 p.m.|435-743-5555||Need testing order|https://intermountainhealthcare.org/covid19-coronavirus/get-testing/locations-requiring-an-order/
+Utah|Garfield Memorial Hospital|200 N 400 E|Panguitch|MF 9 a.m. to 5:00 p.m.|||Need testing order|https://intermountainhealthcare.org/covid19-coronavirus/get-testing/locations-requiring-an-order/
+Utah|Herber InstaCare|1485 S Highway 40 Ste G|Heber|9 a.m. to 5 p.m.|||Need testing order|https://intermountainhealthcare.org/covid19-coronavirus/get-testing/locations-requiring-an-order/
+Utah|Sevier Valley Clinic|1000 N Main Ste A|Richfield|9 a.m. to 5 p.m.|||Need testing order|https://intermountainhealthcare.org/covid19-coronavirus/get-testing/locations-requiring-an-order/
+Virginia|Virginia Hospital Center |1429 N. Quincy St|Arlington|M-F 9-3 |703.558.5766||appt only|https://www.virginiahospitalcenter.com/
+Virginia|Parking lot at PM Pediatrics|11056 Lee Highway|Fairfax|10:30 a.m. to 7:15 a.m.|703-552-5437||need referral|https://pmpediatrics.com/location/virginia-fairfax/
 Virginia|Kaiser||Woodbridge|||||
 Virginia|Kaiser||Tysons|||||
-Vermont|Southwestern Vermont Medical Center|140 Hospital Drive|Bennington|MF 8 a.m. to 5 p.m.|||appt only|https://www.burlingtonfreepress.com/story/news/local/2020/03/09/vermont-hospital-treating-states-covid-19-case-drive-up-test/4998718002/
+Vermont|Southwestern Vermont Medical Center|140 Hospital Drive|Bennington|M-F 8 a.m. to 5 p.m.|||appt only|https://www.burlingtonfreepress.com/story/news/local/2020/03/09/vermont-hospital-treating-states-covid-19-case-drive-up-test/4998718002/
 Washington|Providence||Hawks Prairie||360-486-6800|phone screen||
 Washington|Kaiser Permanente Lynnwood Medical Center|20200 54th Ave. W.|Lynwood|||||https://www.kiro7.com/news/local/where-are-coivd-19-drive-thru-test-sites-western-washington/FF47QNZ6OZGMVPQIM5YIEDMG3M/
 Washington|Kaiser Permanente Puyallup Medical Center|1007 39th Ave. S.E|Puyallup|||||https://www.kiro7.com/news/local/where-are-coivd-19-drive-thru-test-sites-western-washington/FF47QNZ6OZGMVPQIM5YIEDMG3M/
@@ -464,22 +516,22 @@ Washington|PacMed Northgate clinic|10416 5th Ave NE|Seattle|||||https://www.kiro
 Washington|PacMed Beacon Hill clinic|Pacific Tower, 1200 12th Ave S|Seattle|||||
 Washington|PacMed Renton clinic|601 S Carr|Renton|||||
 Washington|Parking Garage at Swedish Medical Center Issaquah|751 N.E. Blakely Drive|Issaquah|||||https://www.kiro7.com/news/local/where-are-coivd-19-drive-thru-test-sites-western-washington/FF47QNZ6OZGMVPQIM5YIEDMG3M/
-Wisconsin|Ascension SE Wisconsin Hospital - Franklin Campus |10101 S 27th St|Franklin||833-981-0711||need referall|https://patch.com/wisconsin/milwaukee/ascension-clarifies-drive-through-coronavirus-testing-rules
-Wisconsin|Ascension Columbia St. Mary's Milwaukee - Gateway Clinic|801 S 70th St|West Allis||833-981-0711||need referall|https://patch.com/wisconsin/milwaukee/ascension-clarifies-drive-through-coronavirus-testing-rules
-Wisconsin|Ascension St. Francis Medical Arts Pavilion|2025 W Oklahoma Av|Milkwaukee||833-981-0711||need referall|https://patch.com/wisconsin/milwaukee/ascension-clarifies-drive-through-coronavirus-testing-rules
-Wisconsin|Ascension Wisconsin Health Center - Mount Pleasant Urgent Care|10180 Washington Ave,|Mt Pleasant||833-981-0711||need referall|https://patch.com/wisconsin/milwaukee/ascension-clarifies-drive-through-coronavirus-testing-rules
-Wisconsin|Ascension SE Wisconsin Hospital - Mayfair Road Urgent Care| 201 N Mayfair Rd|Wauwatosa||833-981-0711||need referall|https://patch.com/wisconsin/milwaukee/ascension-clarifies-drive-through-coronavirus-testing-rules
-Wisconsin|Grafton High School|1950 Washington St|Grafton||833-981-0711||need referall|https://patch.com/wisconsin/milwaukee/ascension-clarifies-drive-through-coronavirus-testing-rules
-Wisconsin|Ascension SE Wisconsin Hospital - St. Joseph Campus|5000 W Chambers St|Milwaukee||833-981-0711||need referall|https://patch.com/wisconsin/milwaukee/ascension-clarifies-drive-through-coronavirus-testing-rules
-Wisconsin|Ascension SE Wisconsin Hospital - Elmbrook Campus|19333 W North Ave|Brookfield||833-981-0711||need referall|https://patch.com/wisconsin/milwaukee/ascension-clarifies-drive-through-coronavirus-testing-rules
+Wisconsin|Ascension SE Wisconsin Hospital - Franklin Campus |10101 S 27th St|Franklin||833-981-0711||need referral|https://patch.com/wisconsin/milwaukee/ascension-clarifies-drive-through-coronavirus-testing-rules
+Wisconsin|Ascension Columbia St. Mary's Milwaukee - Gateway Clinic|801 S 70th St|West Allis||833-981-0711||need referral|https://patch.com/wisconsin/milwaukee/ascension-clarifies-drive-through-coronavirus-testing-rules
+Wisconsin|Ascension St. Francis Medical Arts Pavilion|2025 W Oklahoma Av|Milkwaukee||833-981-0711||need referral|https://patch.com/wisconsin/milwaukee/ascension-clarifies-drive-through-coronavirus-testing-rules
+Wisconsin|Ascension Wisconsin Health Center - Mount Pleasant Urgent Care|10180 Washington Ave,|Mt Pleasant||833-981-0711||need referral|https://patch.com/wisconsin/milwaukee/ascension-clarifies-drive-through-coronavirus-testing-rules
+Wisconsin|Ascension SE Wisconsin Hospital - Mayfair Road Urgent Care| 201 N Mayfair Rd|Wauwatosa||833-981-0711||need referral|https://patch.com/wisconsin/milwaukee/ascension-clarifies-drive-through-coronavirus-testing-rules
+Wisconsin|Grafton High School|1950 Washington St|Grafton||833-981-0711||need referral|https://patch.com/wisconsin/milwaukee/ascension-clarifies-drive-through-coronavirus-testing-rules
+Wisconsin|Ascension SE Wisconsin Hospital - St. Joseph Campus|5000 W Chambers St|Milwaukee||833-981-0711||need referral|https://patch.com/wisconsin/milwaukee/ascension-clarifies-drive-through-coronavirus-testing-rules
+Wisconsin|Ascension SE Wisconsin Hospital - Elmbrook Campus|19333 W North Ave|Brookfield||833-981-0711||need referral|https://patch.com/wisconsin/milwaukee/ascension-clarifies-drive-through-coronavirus-testing-rules
 Wisconsin|Froedtert Pleasant Prairie Hospital|9555 76th St|Pleasant Prairie||262-671-7777||appt only|
-West Virginia|University Town Centre|6040 University Town Centre Drive,|Morgantown|10 a.m. to 4 p.m|304-598-6000||need referall|https://wvumedicine.org/news/article/wvu-medicine-to-offer-pre-screened-patients-drive-through-specimen-collection-for-covid-19/
+West Virginia|University Town Centre|6040 University Town Centre Drive,|Morgantown|10 a.m. to 4 p.m|304-598-6000||need referral|https://wvumedicine.org/news/article/wvu-medicine-to-offer-pre-screened-patients-drive-through-specimen-collection-for-covid-19/
 West Virginia|Mon Health|1200 J D Anderson Dr|Morgantown|MF 9 a.m to 1 p.m, 2 p.m. to 7 p.m.|304-285-3798||pre screen/pre-reister|https://www.newstribune.info/news/20200324/where-in-wva-can-i-get-coronavirus-test
 West Virginia|Dr. Ayne Amjadu2019s office|330 N Eisenhower Drive|Beckley|10am to 12pm|304-252-5900||Appt only|https://www.newstribune.info/news/20200324/where-in-wva-can-i-get-coronavirus-test
-West Virginia|Camden Clark Medical Center|800 Garfield Ave, Parkersburg|Parkersburg|10 a.m. to 4 p.m|304-598-6000||need referall|https://wvumedicine.org/news/article/wvu-medicine-to-offer-pre-screened-patients-drive-through-specimen-collection-for-covid-19/
-West Virginia|United Hospital Center u2028|327 Medical Park Drive|Bridgeport|10 a.m. to 4 p.m|304-598-6000||need referall|https://wvumedicine.org/news/article/wvu-medicine-to-offer-pre-screened-patients-drive-through-specimen-collection-for-covid-19/
-West Virginia|Wheeling Park parking lotu2028|1801 National Rd|Wheeling|10 a.m. to 4 p.m|304-221-3995||need referall|https://wvumedicine.org/news/article/wvu-medicine-to-offer-pre-screened-patients-drive-through-specimen-collection-for-covid-19/
-West Virginia|Berkeley Medical Center|2500 Hospital Dr|Martinsburg|10 a.m. to 4 p.m|304-598-6000||need referall|https://wvumedicine.org/news/article/wvu-medicine-to-offer-pre-screened-patients-drive-through-specimen-collection-for-covid-19/
-West Virginia|Princeton Community Hospital|122 12th Street|Princetown|MF 10 a.m. to 2 p.m.|304-487-7000||need referall|https://pchonline.org/
-West Virginia|Davis Medical Center|812 Gorman Avenue|Elkins|8 a.m. to 5 pm.|304-630-3088|||
+West Virginia|Camden Clark Medical Center|800 Garfield Ave, Parkersburg|Parkersburg|10 a.m. to 4 p.m|304-598-6000||need referral|https://wvumedicine.org/news/article/wvu-medicine-to-offer-pre-screened-patients-drive-through-specimen-collection-for-covid-19/
+West Virginia|United Hospital Center u2028|327 Medical Park Drive|Bridgeport|10 a.m. to 4 p.m|304-598-6000||need referral|https://wvumedicine.org/news/article/wvu-medicine-to-offer-pre-screened-patients-drive-through-specimen-collection-for-covid-19/
+West Virginia|Wheeling Park parking lotu2028|1801 National Rd|Wheeling|10 a.m. to 4 p.m|304-221-3995||need referral|https://wvumedicine.org/news/article/wvu-medicine-to-offer-pre-screened-patients-drive-through-specimen-collection-for-covid-19/
+West Virginia|Berkeley Medical Center|2500 Hospital Dr|Martinsburg|10 a.m. to 4 p.m|304-598-6000||need referral|https://wvumedicine.org/news/article/wvu-medicine-to-offer-pre-screened-patients-drive-through-specimen-collection-for-covid-19/
+West Virginia|Princeton Community Hospital|122 12th Street|Princetown|MF 10 a.m. to 2 p.m.|304-487-7000||need referral|https://pchonline.org/
+West Virginia|Davis Medical Center|812 Gorman Avenue|Elkins|8 - 5 |304-630-3088|||
 Wyoming|Home Medical Resources|901 W. Second Street|Gillette||307-688-1000|call to get screened first||https://k2radio.com/drive-thru-screening-under-criteria-in-campbell-county-begins/
